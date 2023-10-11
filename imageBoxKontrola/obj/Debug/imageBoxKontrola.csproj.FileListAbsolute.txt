@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\obj\Debug\imageBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\obj\Debug\imageBoxKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\obj\Debug\imageBoxKontrola.Form1.resources
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\obj\Debug\imageBoxKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\obj\Debug\imageBoxKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\obj\Debug\imageBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\bin\Debug\imageBoxKontrola.exe.config
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\bin\Debug\imageBoxKontrola.exe
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\bin\Debug\imageBoxKontrola.pdb
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\obj\Debug\imageBoxKontrola.exe
+C:\Users\ucenik\source\repos\imageBoxKontrola\imageBoxKontrola\obj\Debug\imageBoxKontrola.pdb
